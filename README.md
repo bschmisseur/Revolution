@@ -12,8 +12,8 @@ A web-based applicaiton in order to create an E-Commerce website. The applicatio
         6. Add Items to Card
         7. Checkout
         8. Save Address Information
-        9. Save Credit Card Information
-    Admin Features:
+        9. Save Credit Card Information<br>
+    Admin Features:<br>
         1. View All Users
         2. View All Products
         3. Edit a Product
