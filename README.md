@@ -5,21 +5,21 @@ A web-based applicaiton in order to create an E-Commerce website. The applicatio
 <h2>Freatures</h2>
     User Features:<br>
 1. Login
-2. Registration
-3. View Product List
-4. Search prdoucts By paramenter
-5. View specifc product
-6. Add Items to Card
-7. Checkout
-8. Save Address Information
-9. Save Credit Card Information<br>
+1. Registration
+1. View Product List
+1. Search prdoucts By paramenter
+1. View specifc product
+1. Add Items to Card
+1. Checkout
+1. Save Address Information
+1. Save Credit Card Information<br>
     Admin Features:<br>
 1. View All Users
-2. View All Products
-3. Edit a Product
-4. Add a Product
-5. Remove a Product
-6. View All Orders
+1. View All Products
+1. Edit a Product
+1. Add a Product
+1. Remove a Product
+1. View All Orders
 
 <h2>Technologies Used:</h2>
 Language: PHP 7.3.11<br>
