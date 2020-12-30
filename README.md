@@ -3,6 +3,7 @@
 A web-based applicaiton in order to create an E-Commerce website. The application that is created is call Revolution and is made in order to provide a user with a store to buy exlcusive shoes. The main idea of Revolution is build from a simillar web applicaiton called GOAT. The website is created with a full checkout process in which allows the user to be able to save multiple addresses and credit cards to their own account. The user will also be able to see all past orders.
 
 <h2>Freatures</h2>
+
 User Features:<br>
     
 1. Login
