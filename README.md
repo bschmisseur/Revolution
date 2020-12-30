@@ -52,5 +52,5 @@ Attached below are all the UML and Diagrams used throught the creation of the pr
 <h4>Final Product</h4>
 
 <p align="center">
-	<img src="Revolution_Photos/Final_Product_Screenshots.png" alt="Final Product"/>
+	<img src="Revolution_Photos/FinalProduct_Page1.jpg" alt="Final Product"/>
 </p>
