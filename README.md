@@ -26,10 +26,10 @@ Admin Features:<br>
 1. View All Orders
 
 <h2>Technologies Used:</h2>
-Language: PHP 7.3.11<br>
-IDE: Eclipse IDE for PHP Developers (4.9.0)<br>
-Server: MAMP 5.2<br>
-Database: MySQL 7.2.23<br>
+Language: PHP v7.3.11<br>
+IDE: Eclipse IDE for PHP Developers v4.9.0<br>
+Server: MAMP v5.2<br>
+Database: MySQL v7.2.23<br>
 
 <h2>Documentation:</h2>
 
