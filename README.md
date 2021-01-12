@@ -6,15 +6,15 @@ A web-based applicaiton in order to create an E-Commerce website. The applicatio
 
 User Features:<br>
     
-1. Login
-1. Registration
-1. View Product List
-1. Search prdoucts By paramenter
-1. View specifc product
-1. Add Items to Card
-1. Checkout
-1. Save Address Information
-1. Save Credit Card Information<br>
+	1. Login
+	2. Registration
+	3. View Product List
+	4. Search prdoucts By paramenter
+	5. View specifc product
+	6. Add Items to Card
+	7. Checkout
+	8. Save Address Information
+	9. Save Credit Card Information<br>
 
 Admin Features:<br>
 
