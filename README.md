@@ -18,12 +18,12 @@ User Features:<br>
 
 Admin Features:<br>
 
-1. View All Users
-1. View All Products
-1. Edit a Product
-1. Add a Product
-1. Remove a Product
-1. View All Orders
+	1. View All Users
+	1. View All Products
+	1. Edit a Product
+	1. Add a Product
+	1. Remove a Product
+	1. View All Orders
 
 <h2>Technologies Used:</h2>
 Language: PHP v7.3.11<br>
