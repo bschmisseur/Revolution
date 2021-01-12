@@ -1,0 +1,185 @@
+.footerStyle {
+	background-color: black;
+	width: 100%;
+	height: 100px;
+  	position: absolute;
+  	bottom: 0;
+}
+
+.footerStyle table {
+	height: 100%;
+	color: white;
+	font-family: syncopate;
+	width: 60%;
+}
+
+.tableLayout {
+	height: 60%;
+	width: 90%;
+}
+
+.tableLayout td {
+	height: 60%;
+	padding: 10px;
+	text-align: center;
+	vertical-align: top;
+	width: 33%;
+}
+
+.button {
+	font-family: Syncopate;
+	font-weight: bold;
+  background-color: #ffffff;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+.button:hover {
+	transition: .2s;
+	text-decoration:underline;
+    display:inline-block;
+}
+
+.searchGrid table {
+	vertical-align: middle;
+	border: 1px solid #d3dad5;
+	width: 100%;
+	text-align: center;
+	font-family: syncopate;
+}
+
+.searchGrid table:hover {
+	border: 1px solid black;
+}
+
+.searchGrid td {
+	vertical-align: middle;
+}
+
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+a:hover {
+	transition: .2s;
+	text-decoration: underline;
+	display: inline-block;
+}
+
+.table-wrapper-scroll-y {
+	display: block;
+}
+
+.my-custom-scrollbar {
+	position: relative;
+	height: 90%;
+	overflow: auto;
+}
+
+.checkBoxStyle {
+	align: center;
+	text-align: left;
+	display:inline;
+}
+
+/* form starting stylings ------------------------------- */
+.group 			  { 
+  position:relative; 
+  margin-bottom:45px; 
+}
+input 				{
+  font-size:14px;
+  padding: 7px 7px 7px 5px;
+  display:block;
+  width:90%;
+  border:none;
+  border-bottom:1px solid #000;
+}
+input:focus 		{ outline:none; }
+
+/* LABEL ======================================= */
+label 				 {
+  color:#000; 
+  font-size:14px;
+  font-weight:normal;
+  position:absolute;
+  pointer-events:none;
+  left:5px;
+  top:7px;
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+
+/* active state */
+input:focus ~ label, input:valid ~ label{
+  top:-20px;
+  font-size:12px;
+  color:#797985;
+}
+
+/* BOTTOM BARS ================================= */
+.bar 	{ position:relative; display:block; width:300px; }
+.bar:before, .bar:after 	{
+  content:'';
+  height:2px; 
+  width:0;
+  bottom:1px; 
+  position:absolute;
+  background:#797985; 
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+.bar:before {
+  left:50%;
+}
+.bar:after {
+  right:50%; 
+}
+
+/* active state */
+input:focus ~ .bar:before, input:focus ~ .bar:after {
+  width:50%;
+}
+
+/* HIGHLIGHTER ================================== */
+.highlight {
+  position:absolute;
+  height:90%; 
+  width:100px; 
+  top:25%; 
+  left:0;
+  pointer-events:none;
+  opacity:0.5;
+}
+
+/* active state */
+input:focus ~ .highlight {
+  -webkit-animation:inputHighlighter 0.3s ease;
+  -moz-animation:inputHighlighter 0.3s ease;
+  animation:inputHighlighter 0.3s ease;
+}
+
+/* ANIMATIONS ================ */
+@-webkit-keyframes inputHighlighter {
+	from { background:#797985; }
+  to 	{ width:0; background:transparent; }
+}
+@-moz-keyframes inputHighlighter {
+	from { background:#797985; }
+  to 	{ width:0; background:transparent; }
+}
+@keyframes inputHighlighter {
+	from { background:#797985; }
+  to 	{ width:0; background:transparent; }
+}

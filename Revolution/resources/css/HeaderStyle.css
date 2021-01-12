@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	top: 0;
+	left: 0;
+	}
+ul {
+	font-family: Syncopate;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ffffff;
+}
+
+li a {
+	display: block;
+	color: #000;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+
+li a:hover {
+	transition: .2s;
+	text-decoration:underline;
+    display:inline-block;
+}
