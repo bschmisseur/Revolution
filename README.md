@@ -41,12 +41,6 @@ Attached below are all the UML and Diagrams used throught the creation of the pr
 	<img src="Revolution_Photos/UML_Class_Diagram.png" alt="UML Class Diagram"/>
 </p>
 
-<h4>Site Map Diagram</h4>
-
-<p align="center">
-	<img src="Revolution_Photos/Sitemap_Diagram.png" alt="Site Map Diagram"/>
-</p>
-
 <h4>ER Diagram</h4>
 
 <p align="center">
