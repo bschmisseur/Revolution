@@ -19,11 +19,11 @@ User Features:<br>
 Admin Features:<br>
 
 	1. View All Users
-	1. View All Products
-	1. Edit a Product
-	1. Add a Product
-	1. Remove a Product
-	1. View All Orders
+	2. View All Products
+	3. Edit a Product
+	4. Add a Product
+	5. Remove a Product
+	6. View All Orders
 
 <h2>Technologies Used:</h2>
 Language: PHP v7.3.11<br>
